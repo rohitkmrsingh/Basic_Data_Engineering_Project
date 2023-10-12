@@ -1,0 +1,1 @@
+This repository contains a basic data engineering project that focuses on creating a relational database using PostgreSQL and Python. The project utilizes the Bike Store dataset from Kaggle, encompassing various aspects of a typical bike store's operations.
